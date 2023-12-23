@@ -7,7 +7,7 @@ const md = require("markdown-it")({
 import { fetchGitHubData } from "./fetchGitHubData";
 const githubUsername = "Ubongedem78";
 
-const ossProjectRepos = ["ShuttleQ", "xyz"];
+const ossProjectRepos = ["UbongEdem", "ShuttleQ", "helpmeoutAPI", "TPSS_2023"];
 
 const websiteUrl = "https://wr78.me";
 const twitterUrl = "https://twitter.com/usernameissnull";
