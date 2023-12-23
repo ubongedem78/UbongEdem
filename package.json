@@ -1,7 +1,7 @@
 {
   "name": "ubongedem",
   "version": "1.0.0",
-  "description": "Ubong's Github Page",
+  "description": "My automated GitHub Profile README built using TypeScript and GitHub Actions.",
   "main": "src/app.ts",
   "scripts": {
     "build": "npx tsc",
