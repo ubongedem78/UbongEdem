@@ -6,7 +6,6 @@ export async function fetchGitHubData(repos: Array<string>): Promise<string> {
       const response = await fetch(
         `https://api.github.com/repos/${owner}/${repo}`
       );
-      console.log(response);
       if (!response.ok) {
         throw new Error(
           `"${owner}/${repo}" not found. Kindy review your list of repositories.`
