@@ -15,6 +15,7 @@ function fetchGitHubData(repos) {
         const owner = "Ubongedem78";
         const list = yield Promise.all(repos.map((repo) => __awaiter(this, void 0, void 0, function* () {
             const response = yield fetch(`https://api.github.com/repos/${owner}/${repo}`);
+            console.log(response);
             if (!response.ok) {
                 throw new Error(`"${owner}/${repo}" not found. Kindy review your list of repositories.`);
             }

@@ -15,7 +15,7 @@ jobs:
       - name: Use Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: "18"
+          node-version: "18.x"
       - name: Install Dependencies
         run: npm install
       - name: Rebuild README.md File
@@ -24,7 +24,7 @@ jobs:
         run: |-
           git add .
           git diff
-          git config --global user.email "mailtoubongedem79@gmail.com"
+          git config --global user.email "ubongedem79@gmail.com"
           git config --global user.name "ubong-actions-bot"
           git commit -m "docs: auto-update README.md" -a || exit 0
           git push

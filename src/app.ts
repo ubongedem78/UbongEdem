@@ -7,7 +7,7 @@ const md = require("markdown-it")({
 import { fetchGitHubData } from "./fetchGitHubData";
 const githubUsername = "Ubongedem78";
 
-const ossProjectRepos = ["UbongEdem", "ShuttleQ", "helpmeoutAPI", "TPSS_2023"];
+const ProjectRepos = ["UbongEdem", "ShuttleQ", "helpmeoutAPI", "TPSS_2023"];
 
 const websiteUrl = "https://wr78.me";
 const twitterUrl = "https://twitter.com/usernameissnull";
@@ -46,7 +46,7 @@ async function generateMarkdown() {
   <br />
   Here are some of my other projects you might want to check out that are not pinned:\n
   <br />\n<br />
-  ${await fetchGitHubData(ossProjectRepos)}\n
+  ${await fetchGitHubData(ProjectRepos)}\n
   </details>\n
 
   <details>\n
