@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi 👋🏾, I'm Ubong Edem</h1>
 
-<p>I have a fervor for conceptualizing and bringing to fruition, cutting-edge products designed to streamline processes, automate tasks, and elevate overall quality of life. I am focused on transforming ideas into impactful, user-centric experiences.</p>
+<p align="left">I have a fervor for conceptualizing and bringing to fruition, cutting-edge products designed to streamline processes, automate tasks, and elevate overall quality of life. I am focused on transforming ideas into impactful, user-centric experiences.</p>
 <hr>
 
 <h3 align="left">Languages and Technologies Used:</h3>
@@ -22,7 +22,7 @@
 </a>
 
 <hr>
-<p><a href="https://github.com/Ubongedem78/Ubongedem78#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=Ubongedem78&amp;show_icons=true&amp;hide_border=true&amp;include_all_commits=true&amp;card_width=600&amp;custom_title=GitHub%20Open%20Source%20Stats&amp;title_color=3B7EBF&amp;text_color=FFF&amp;icon_color=3B7EBF&amp;hide=contribs&amp;show=reviews,prs_merged,prs_merged_percentage&amp;theme=transparent#gh-dark-mode-only" alt="GitHub-Stats-Card-Dark"></a></p>
+<p align="left"><a href="https://github.com/Ubongedem78/Ubongedem78#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=Ubongedem78&amp;show_icons=true&amp;hide_border=true&amp;include_all_commits=true&amp;card_width=600&amp;custom_title=GitHub%20Open%20Source%20Stats&amp;title_color=3B7EBF&amp;text_color=FFF&amp;icon_color=3B7EBF&amp;hide=contribs&amp;show=reviews,prs_merged,prs_merged_percentage&amp;theme=transparent#gh-dark-mode-only" alt="GitHub-Stats-Card-Dark"></a></p>
 <p><a href="https://github.com/Ubongedem78/Ubongedem78#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=Ubongedem78&amp;show_icons=true&amp;hide_border=true&amp;include_all_commits=true&amp;card_width=600&amp;custom_title=GitHub%20Open%20Source%20Stats&amp;title_color=3B7EBF&amp;text_color=474A4E&amp;icon_color=3B7EBF&amp;hide=contribs&amp;show=reviews,prs_merged,prs_merged_percentage&amp;theme=transparent#gh-light-mode-only" alt="GitHub-Stats-Card-Light"></a></p>
 <hr>
 <h3 align="left">Projects</h3>
