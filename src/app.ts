@@ -195,9 +195,6 @@ async function generateMarkdown() {
   \n
   ${websiteBadge} ${linkedinBadge} ${twitterBadge} ${profileCountBadge}\n
 
-
-  ${profileProgress}\n
-
 `;
 
   const result = md.render(markdownText);
