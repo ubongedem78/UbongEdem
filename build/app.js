@@ -186,11 +186,13 @@ function generateMarkdown() {
     />
   </a>
   `;
+        const myCV = `[![Download My CV](https://img.shields.io/badge/-Download%20My%20CV-3B7EBF?style=for-the-badge&logo=amp&logoColor=white&color=007ACC)](https://docs.google.com/document/d/1yFys95xi4srG8z0SlhGkS3M98YNcWpr5XFwkGcC1HIE/edit?usp=sharing)`;
         const markdownText = `<div align="center">\n
   # Hi there, I'm Ubong Edem ✌🏻👋🏻
 
   I am a Backend Engineer with x years of experience. I have a fervor for conceptualizing and bringing to fruition, cutting-edge products designed to streamline processes, automate tasks, and elevate overall quality of life. I am focused on transforming ideas into impactful, user-centric experiences.\n
 
+  ${myCV}\n
 
   ${technologiesUsed}\n
 

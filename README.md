@@ -1,6 +1,7 @@
 <div align="center">
 <h1>Hi there, I'm Ubong Edem ✌🏻👋🏻</h1>
 <p>I am a Backend Engineer with x years of experience. I have a fervor for conceptualizing and bringing to fruition, cutting-edge products designed to streamline processes, automate tasks, and elevate overall quality of life. I am focused on transforming ideas into impactful, user-centric experiences.</p>
+<p><a href="https://docs.google.com/document/d/1yFys95xi4srG8z0SlhGkS3M98YNcWpr5XFwkGcC1HIE/edit?usp=sharing"><img src="https://img.shields.io/badge/-Download%20My%20CV-3B7EBF?style=for-the-badge&amp;logo=amp&amp;logoColor=white&amp;color=007ACC" alt="Download My CV"></a></p>
   <h3 align="left">Languages and Technologies Used:</h3>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img
