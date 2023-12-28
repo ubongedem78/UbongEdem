@@ -164,7 +164,7 @@ async function generateMarkdown() {
   const markdownText = `<div align="center">\n
   # Hi there, I'm Ubong Edem ✌🏻👋🏻
 
-  I am a Backend Engineer with x years of experience. I have a fervor for conceptualizing and bringing to fruition, cutting-edge products designed to streamline processes, automate tasks, and elevate overall quality of life. I am focused on transforming ideas into impactful, user-centric experiences.\n
+  I am a Backend Engineer with expertise building scalable applications with NodeJS. I have a fervor for conceptualizing and bringing to fruition, cutting-edge products designed to streamline processes, automate tasks, and elevate overall quality of life. I am focused on transforming ideas into impactful, user-centric experiences.\n
 
   ${myCV}\n
 
