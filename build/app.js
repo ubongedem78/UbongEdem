@@ -40,7 +40,7 @@ const md = require("markdown-it")({
 });
 const fetchGitHubData_1 = require("./fetchGitHubData");
 const githubUsername = "Ubongedem78";
-const ProjectRepos = ["ShuttleQ", "helpmeoutAPI", "TPSS_2023"];
+const ProjectRepos = ["ShuttleQ", "TPSS_2023"];
 const websiteUrl = "https://github.com/ubongedem78";
 const twitterUrl = "https://twitter.com/usernameissnull";
 const linkedinUrl = "https://linkedin.com/in/ubongedem78/";

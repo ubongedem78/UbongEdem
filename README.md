@@ -138,7 +138,7 @@
   </div>
 <h2>Projects</h2>
 <p>Here are some of my projects that may or may not be pinned; Meanwhile, don't forget to have a look at my pinned projects directly below the Github-Stats-Card at the bottom:</p>
-  <ul><li><a href=https://github.com/ubongedem78/ShuttleQ target="_blank" rel="noopener noreferrer">ubongedem78/ShuttleQ</a>: A Management Application for Badminton Lovers</li><li><a href=https://github.com/ubongedem78/helpmeoutAPI target="_blank" rel="noopener noreferrer">ubongedem78/helpmeoutAPI</a>: Backend for HelpMeOut- A Chrome Extension</li><li><a href=https://github.com/ubongedem78/TPSS_2023 target="_blank" rel="noopener noreferrer">ubongedem78/TPSS_2023</a>: A Transaction Payment Splitting Service</li>
+  <ul><li><a href=https://github.com/ubongedem78/ShuttleQ target="_blank" rel="noopener noreferrer">ubongedem78/ShuttleQ</a>: A Management Application for Badminton Lovers</li><li><a href=https://github.com/ubongedem78/TPSS_2023 target="_blank" rel="noopener noreferrer">ubongedem78/TPSS_2023</a>: A Transaction Payment Splitting Service</li>
 <li>More coming soon :).</li>
 </ul>
 <h2>Quick Tips</h2>
