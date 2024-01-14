@@ -7,7 +7,7 @@ const md = require("markdown-it")({
 import { fetchGitHubData } from "./fetchGitHubData";
 const githubUsername = "Ubongedem78";
 
-const ProjectRepos = ["UbongEdem", "ShuttleQ", "helpmeoutAPI", "TPSS_2023"];
+const ProjectRepos = ["ShuttleQ", "TPSS_2023"];
 
 const websiteUrl = "https://wr78.me";
 const twitterUrl = "https://twitter.com/usernameissnull";
@@ -180,7 +180,7 @@ async function generateMarkdown() {
 
   ## Projects
 
-  Here are some of my projects that may or may not be pinned:\n
+  Here are some of my projects that may or may not be pinned(Please do well to check the pins below):\n
 \n
   ${await fetchGitHubData(ProjectRepos)}\n
 
